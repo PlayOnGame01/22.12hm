@@ -1,0 +1,9 @@
+id: 803
+name: "Odesa"
+country: "UA"sa"
+lon: 30.7326
+lat: 46.4775
+temp_min: 2.81775
+temp_max: 2.81775
+sunset: 1672323431
+sunrise: 1672292431
